@@ -1,5 +1,5 @@
 const obj = {
-  name: "test1",
+  name: "test 2",
   details: function () {
     console.log("name " + this.name);
   },
